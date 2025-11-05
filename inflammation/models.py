@@ -38,7 +38,6 @@ import pytest
 
 
 def patient_normalise(data):
-    error
     """
     Normalise patient data between 0 and 1 of a 2D inflammation data array.
 
